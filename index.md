@@ -6,3 +6,6 @@
 ``` javascript
 var myVar = "Hello, world!";
 ```
+- [ ] Learn Python
+- [ ] Learn Panda
+- [ ] Learn C#
